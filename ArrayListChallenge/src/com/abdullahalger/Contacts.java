@@ -22,8 +22,10 @@ public class Contacts {
     }
 
     // calling constructor to create a new contact record
+    // factory method
 
     public static Contacts createContact(String name, String number) {
         return new Contacts(name, number);
     }
+
 }
