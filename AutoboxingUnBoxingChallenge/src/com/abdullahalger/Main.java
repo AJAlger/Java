@@ -29,6 +29,22 @@ public class Main {
 
         // Add data validation, e.g. check if exists or does not exist
 
+        Bank bank = new Bank("National US Bank");
+        bank.addBranch("Seattle");
+        bank.addCustomer("Seattle", "Abdullah", 500.23);
+        bank.addCustomer("Seattle", "Omar", 403.76);
+        bank.addCustomer("Seattle", "Dana", 305.54);
+
+        bank.addBranch("Tacoma");
+        bank.addCustomer("Tacoma", "Janet", 2300.32);
+        bank.addCustomer("Tacoma", "Joan", 5003.76);
+
+        bank.addCustomerTransaction("Seattle", "Abdullah", 100.32);
+        bank.addCustomerTransaction("Tacoma", "Janet", 43.56);
+
+
+        bank.listCustomers("Seattle", true);
+
 
     }
 }

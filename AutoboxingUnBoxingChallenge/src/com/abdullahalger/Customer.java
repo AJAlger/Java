@@ -10,7 +10,7 @@ public class Customer {
     private ArrayList<Double> transactions;
     private String name;
 
-    public Customer(double initialAmount, String name) {
+    public Customer(String name, double initialAmount) {
         this.transactions = new ArrayList<Double>();
         this.name = name;
         addTransaction(initialAmount);

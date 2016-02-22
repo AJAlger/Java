@@ -8,10 +8,9 @@ import java.util.ArrayList;
 public class Branch {
 
     private ArrayList<Customer> customers;
-
     private String name;
 
-    public Branch(ArrayList<Customer> customers, String name) {
+    public Branch(String name) {
         this.customers = new ArrayList<Customer>();
         this.name = name;
     }
@@ -20,9 +19,13 @@ public class Branch {
         return name;
     }
 
+    public ArrayList<Customer> getCustomers() {
+        return customers;
+    }
+
     public boolean addNewCustomer(String name, double initialAmount) {
         if (findCustomer(name) == null) {
-            this.customers.add(new Customer(initialAmount, name));
+            this.customers.add(new Customer(name, initialAmount));
             return true;
         }
         return false;
