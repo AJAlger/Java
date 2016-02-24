@@ -30,6 +30,11 @@ public class Main {
         // Add data validation, e.g. check if exists or does not exist
 
         Bank bank = new Bank("National US Bank");
+
+        if (bank.addBranch("Seattle")) {
+            System.out.println("Seattle branch created");
+        }
+
         bank.addBranch("Seattle");
         bank.addCustomer("Seattle", "Abdullah", 500.23);
         bank.addCustomer("Seattle", "Omar", 403.76);
@@ -45,6 +50,22 @@ public class Main {
 
         bank.listCustomers("Seattle", true);
 
+        if (!bank.addCustomer("Sorenson", "Henry", 4.32)) {
+            System.out.println("Error Sorenson branch does not exist");
+        }
+
+        if (!bank.addBranch("Seattle")) {
+
+            System.out.println(" Seattle branch already exists");
+        }
+
+        if (!bank.addCustomerTransaction("Seattle", "Yester", 3.40)) {
+            System.out.println("Customer does not exist");
+        }
+
+        if (!bank.addCustomer("Seattle", "Abdullah", 67.32)) {
+            System.out.println("Customer Abdullah already exists");
+        }
 
     }
 }
