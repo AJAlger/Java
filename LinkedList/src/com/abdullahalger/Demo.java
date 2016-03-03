@@ -3,6 +3,7 @@ package com.abdullahalger;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.ListIterator;
+import java.util.Scanner;
 
 /**
  * Created by Abdullah-Mac on 2/27/16.
@@ -13,21 +14,14 @@ public class Demo {
         LinkedList<String> placesToVisit = new LinkedList<String>();
 
         addInOrder(placesToVisit, "Seattle");
-
         addInOrder(placesToVisit, "Olympia");
-
         addInOrder(placesToVisit, "Tacoma");
-
         addInOrder(placesToVisit, "Anacortes");
-
         addInOrder(placesToVisit, "Shelton");
-
         printList(placesToVisit);
-
         addInOrder(placesToVisit, "Forks");
-
-        addInOrder(placesToVisit, "Tacoma");
-
+        addInOrder(placesToVisit, "Levenworth");
+        addInOrder(placesToVisit, "Olympia");
         printList(placesToVisit);
 
 //        placesToVisit.add("Seattle");
@@ -60,8 +54,24 @@ public class Demo {
         System.out.println(linkedList.indexOf(item));
     }
 
+    private static void visit(LinkedList<String> cities) {
+        Scanner scanner = new Scanner(System.in);
+        boolean quit = false;
+        ListIterator<String> listIterator = cities.listIterator();
+
+        if (cities.isEmpty()) {
+            System.out.println("No cities in the itinerary");
+        } else {
+
+        }
+
+    }
+
     private static boolean addInOrder(LinkedList<String> linkedList, String newCity) {
+        // this is just a setup for the list
+        // linked list stores a method to the item, the previous item, and the next item
         ListIterator<String> stringListIterator = linkedList.listIterator();
+        // need to use .next() to point to the first instance
 
         while (stringListIterator.hasNext()) {
             int comparison = stringListIterator.next().compareTo(newCity);
