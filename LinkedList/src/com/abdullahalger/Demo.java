@@ -10,6 +10,8 @@ import java.util.Scanner;
  */
 public class Demo {
 
+    // Linked list demo
+
     public static void main(String[] args) {
         LinkedList<String> placesToVisit = new LinkedList<String>();
 
@@ -23,6 +25,8 @@ public class Demo {
         addInOrder(placesToVisit, "Levenworth");
         addInOrder(placesToVisit, "Olympia");
         printList(placesToVisit);
+
+        visit(placesToVisit);
 
 //        placesToVisit.add("Seattle");
 //        placesToVisit.add("Olympia");
@@ -62,9 +66,47 @@ public class Demo {
         if (cities.isEmpty()) {
             System.out.println("No cities in the itinerary");
         } else {
-
+            System.out.println("Now visiting " + listIterator.next());
+            printMenu();
         }
 
+        while (!quit) {
+            int action = scanner.nextInt();
+            scanner.nextLine();
+            switch (action) {
+                case 0:
+                    System.out.println("Holiday over");
+                    quit = true;
+                    break;
+                case 1:
+                    if (listIterator.hasNext()) {
+                        System.out.println("Now visiting " + listIterator.next());
+                    } else {
+                        System.out.println("Reached the end of the list");
+                    }
+                    break;
+                case 2:
+                    if (listIterator.hasPrevious()) {
+                        System.out.println("Now visiting " + listIterator.previous());
+                    } else {
+                        System.out.println("We are at the end of the list");
+                    }
+                    break;
+                case 3:
+                    printMenu();
+                    break;
+            }
+        }
+
+    }
+
+    private static void printMenu() {
+        System.out.println("Available actions:\npress");
+        System.out.println("0 - to quit\n" +
+                            "1 - to go to next city\n" +
+                            "2 - to go to previous city\n" +
+                            "3 - print menu options"
+        );
     }
 
     private static boolean addInOrder(LinkedList<String> linkedList, String newCity) {
