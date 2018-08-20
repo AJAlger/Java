@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b38cc16-d72b-4ce8-9bb4-33ae55b75cc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Methods/10_Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_MethodsChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_MethodOverridingChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_MethodOverridingChallenges/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Switch/15_Switch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_SwitchChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_SwitchChallenges/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_ForLoop/18_ForLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_ForLoopsChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_ForLoopsChallengeExtras/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_StatementsWhiteSpaceAndIndenting/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/9_IfKeywordAndCodeBlocks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayChallenge/src/com/abdullahalger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayChallenge/src/com/abdullahalger/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayLists/ArrayLists.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayLists/ArrayLists.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Arrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoBoxingAndUnboxing/AutoBoxingAndUnboxing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoBoxingAndUnboxing/AutoBoxingAndUnboxing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoboxingUnBoxingChallenge/AutoboxingUnBoxingChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoboxingUnBoxingChallenge/AutoboxingUnBoxingChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortInt/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortInt/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortInt/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortInt/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortInt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortInt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortInt/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortInt/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortInt/ByteShortInt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortInt/out/production/ByteShortInt/com/abdullahalger/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortInt/src/com/abdullahalger/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/out/production/CharAndBoolean/com/abdullahalger/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/src/com/abdullahalger/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Classes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Classes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition/Composition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Composition/Composition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constructors/Constructors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Constructors/Constructors.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EncapsulationChallenge/EncapsulationChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EncapsulationChallenge/EncapsulationChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/out/production/FloatAndDouble/com/abdullahalger/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/src/com/abdullahalger/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10_Methods/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10_Methods/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/10_Methods/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10_Methods/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10_Methods/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/18_ForLoop/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10_Methods/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/18_ForLoop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/ForLoop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/21_WhileAndDoWhileLoops/21_WhileAndDoWhileLoops.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/out/production/ForLoop/com/abdullahalger/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/18_ForLoop/out/production/ForLoop/com/abdullahalger/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop/src/com/abdullahalger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/18_ForLoop/src/com/abdullahalger/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/out/production/HelloWorld/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/12_MethodOverloading/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/12_MethodOverloading/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/12_MethodOverloading/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/12_MethodOverloading/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/12_MethodOverloading/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/12_MethodOverloading/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/8_StatementsWhiteSpaceAndIndenting/8_StatementsWhiteSpaceAndIndenting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/out/production/IfKeywordAndCodeBlocks/com/abdullahalger/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/out/production/IfKeywordAndCodeBlocks/com/abdullahalger/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/src/com/abdullahalger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/src/com/abdullahalger/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Inheritance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Inheritance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/15_Switch/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/15_Switch/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/15_Switch/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/15_Switch/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/18_ForLoop/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/7_KeywordsAndExpressions/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/15_Switch/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/7_KeywordsAndExpressions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/out/production/KeywordsAndExpressions/com/abdullahalger/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/7_KeywordsAndExpressions/out/production/KeywordsAndExpressions/com/abdullahalger/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/src/com/abdullahalger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/7_KeywordsAndExpressions/src/com/abdullahalger/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/LinkedList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/LinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/18_ForLoop/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/18_ForLoop/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/18_ForLoop/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/18_ForLoop/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/21_WhileAndDoWhileLoops/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/12_MethodOverloading/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/18_ForLoop/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/12_MethodOverloading/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/out/production/MethodOverloading/com/abdullahalger/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/12_MethodOverloading/out/production/MethodOverloading/com/abdullahalger/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/src/com/abdullahalger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/12_MethodOverloading/src/com/abdullahalger/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/21_WhileAndDoWhileLoops/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/21_WhileAndDoWhileLoops/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/21_WhileAndDoWhileLoops/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/21_WhileAndDoWhileLoops/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/7_KeywordsAndExpressions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10_Methods/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/21_WhileAndDoWhileLoops/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10_Methods/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/Methods.iml" beforeDir="false" afterPath="$PROJECT_DIR$/7_KeywordsAndExpressions/7_KeywordsAndExpressions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/out/production/Methods/com/abdullahalger/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/10_Methods/out/production/Methods/com/abdullahalger/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/src/com/abdullahalger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/10_Methods/src/com/abdullahalger/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPTest/OOPTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPTest/OOPTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/out/production/Operators/com/abdullahalger/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/src/com/abdullahalger/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Strings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/out/production/Strings/com/abdullahalger/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/com/abdullahalger/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/7_KeywordsAndExpressions/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/7_KeywordsAndExpressions/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/7_KeywordsAndExpressions/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/7_KeywordsAndExpressions/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/15_Switch/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/15_Switch/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/7_KeywordsAndExpressions/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/15_Switch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/Switch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/12_MethodOverloading/12_MethodOverloading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/out/production/Switch/com/abdullahalger/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/15_Switch/out/production/Switch/com/abdullahalger/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/src/com/abdullahalger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/15_Switch/src/com/abdullahalger/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoops/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoops/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoops/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoops/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoops/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoops/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/21_WhileAndDoWhileLoops/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoops/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/21_WhileAndDoWhileLoops/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoops/WhileAndDoWhileLoops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoops/out/production/WhileAndDoWhileLoops/com/abdullahalger/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/21_WhileAndDoWhileLoops/out/production/WhileAndDoWhileLoops/com/abdullahalger/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileAndDoWhileLoops/src/com/abdullahalger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/21_WhileAndDoWhileLoops/src/com/abdullahalger/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1871530">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="15" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="13" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="13" />
+          <entry key="Markdown" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="180" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="180" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/21_WhileAndDoWhileLoops/src/com/abdullahalger/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#1096#1097#0" expanded="true" />
+                <element signature="e#1134#1135#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/6_Operators/src/com/abdullahalger/Main.java" />
+        <option value="$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/src/Main.java" />
+        <option value="$PROJECT_DIR$/Methods/src/com/abdullahalger/Main.java" />
+        <option value="$PROJECT_DIR$/18_ForLoop/src/com/abdullahalger/Main.java" />
+        <option value="$PROJECT_DIR$/21_WhileAndDoWhileLoops/src/com/abdullahalger/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="22" />
+    <option name="width" value="1300" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="10_Methods" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="10_Methods" type="616d4139:PackageViewModuleNode" />
+              <item name="com.abdullahalger" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="21_WhileAndDoWhileLoops" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534540929977" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="1_HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="8_StatementsWhiteSpaceAndIndenting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdullahalger.Main" />
+      <module name="10_Methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdullahalger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdullahalger.Main" />
+      <module name="21_WhileAndDoWhileLoops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdullahalger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdullahalger.Main" />
+      <module name="6_Operators" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdullahalger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Hello" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b38cc16-d72b-4ce8-9bb4-33ae55b75cc4" name="Default Changelist" comment="" />
+      <created>1534381246871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534381246871</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="22" width="1300" height="754" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23131956" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2326284" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/7_KeywordsAndExpressions/src/com/abdullahalger/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_Operators/src/com/abdullahalger/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="37" column="52" lean-forward="true" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_HelloWorld/src/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_CharAndBoolean/src/com/abdullahalger/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_StatementsWhiteSpaceAndIndenting/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/src/com/abdullahalger/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_Methods/src/com/abdullahalger/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="54" lean-forward="true" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_MethodOverloading/src/com/abdullahalger/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_Switch/src/com/abdullahalger/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_ForLoop/src/com/abdullahalger/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_WhileAndDoWhileLoops/21_WhileAndDoWhileLoops.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_WhileAndDoWhileLoops/src/com/abdullahalger/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>1_HelloWorld</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -28,7 +28,7 @@ public class Main {
 
         int temp;
         boolean flag = true;
-        while(flag) {
+        while (flag) {
             flag = false;
             for (int i = 0; i < sortedArray.length - 1; i++) {
                 if (sortedArray[i] < sortedArray[i + 1]) {

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_Methods/10_Methods.iml" filepath="$PROJECT_DIR$/10_Methods/10_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_MethodOverloading/12_MethodOverloading.iml" filepath="$PROJECT_DIR$/12_MethodOverloading/12_MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_Switch/15_Switch.iml" filepath="$PROJECT_DIR$/15_Switch/15_Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_ForLoop/18_ForLoop.iml" filepath="$PROJECT_DIR$/18_ForLoop/18_ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_HelloWorld/1_HelloWorld.iml" filepath="$PROJECT_DIR$/1_HelloWorld/1_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_WhileAndDoWhileLoops/21_WhileAndDoWhileLoops.iml" filepath="$PROJECT_DIR$/21_WhileAndDoWhileLoops/21_WhileAndDoWhileLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_ByteShortInt/2_ByteShortInt.iml" filepath="$PROJECT_DIR$/2_ByteShortInt/2_ByteShortInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_FloatAndDouble/3_FloatAndDouble.iml" filepath="$PROJECT_DIR$/3_FloatAndDouble/3_FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_CharAndBoolean/4_CharAndBoolean.iml" filepath="$PROJECT_DIR$/4_CharAndBoolean/4_CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_Strings/5_Strings.iml" filepath="$PROJECT_DIR$/5_Strings/5_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_Operators/6_Operators.iml" filepath="$PROJECT_DIR$/6_Operators/6_Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_KeywordsAndExpressions/7_KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/7_KeywordsAndExpressions/7_KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_StatementsWhiteSpaceAndIndenting/8_StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/8_StatementsWhiteSpaceAndIndenting/8_StatementsWhiteSpaceAndIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/9_IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/9_IfKeywordAndCodeBlocks/9_IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" filepath="$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayLists/ArrayLists.iml" filepath="$PROJECT_DIR$/ArrayLists/ArrayLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoBoxingAndUnboxing/AutoBoxingAndUnboxing.iml" filepath="$PROJECT_DIR$/AutoBoxingAndUnboxing/AutoBoxingAndUnboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoboxingUnBoxingChallenge/AutoboxingUnBoxingChallenge.iml" filepath="$PROJECT_DIR$/AutoboxingUnBoxingChallenge/AutoboxingUnBoxingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncapsulationChallenge/EncapsulationChallenge.iml" filepath="$PROJECT_DIR$/EncapsulationChallenge/EncapsulationChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPTest/OOPTest.iml" filepath="$PROJECT_DIR$/OOPTest/OOPTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" filepath="$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" />
+    </modules>
+  </component>
+</project>
